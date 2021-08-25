@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="icon_pack" translatable="false">
+        <item>a2048b</item>
         <item>a2048</item>
         <item>a2050</item>
         <item>aard</item>

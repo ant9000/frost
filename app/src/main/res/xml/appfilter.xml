@@ -2925,6 +2925,7 @@
     <item component="ComponentInfo{com.android.settings/com.android.settings.Settings}" drawable="settings" />
     <item component="ComponentInfo{com.android.settings/com.android.settings.HWSettings}" drawable="settings" />
     <item component="ComponentInfo{com.android.settings/com.android.settings.MainSettings}" drawable="settings" />
+    <item component="ComponentInfo{com.android.settings/com.android.settings.DeviceAdminSettings}" drawable="settings" />
 
     <!-- Seven Time -->
     <item component="ComponentInfo{com.codescape.seventime/com.codescape.seventime.MainActivity}" drawable="seventime" />
@@ -3524,6 +3525,9 @@
 
     <!-- Simple Search -->
     <item component="ComponentInfo{de.tobiasbielefeld.searchbar/de.tobiasbielefeld.searchbar.ui.MainActivity}" drawable="simplesearch" />
+
+    <!-- Simple System Monitor -->
+    <item component="ComponentInfo{com.dp.sysmonitor.app/com.dp.sysmonitor.app.activities.SplashActivity}" drawable="osmonitor"/>
 
     <!-- Simple SMS Messenger -->
     <item component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Orange}" drawable="messages" />
